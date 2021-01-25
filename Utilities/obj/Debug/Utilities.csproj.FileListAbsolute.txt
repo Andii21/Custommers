@@ -1,0 +1,6 @@
+C:\Users\Andi\Documents\Egyetem2020-2021\Programare pe componente\Lab\Utilities\bin\Debug\Utilities.dll.config
+C:\Users\Andi\Documents\Egyetem2020-2021\Programare pe componente\Lab\Utilities\bin\Debug\Utilities.dll
+C:\Users\Andi\Documents\Egyetem2020-2021\Programare pe componente\Lab\Utilities\bin\Debug\Utilities.pdb
+C:\Users\Andi\Documents\Egyetem2020-2021\Programare pe componente\Lab\Utilities\obj\Debug\Utilities.csproj.CoreCompileInputs.cache
+C:\Users\Andi\Documents\Egyetem2020-2021\Programare pe componente\Lab\Utilities\obj\Debug\Utilities.dll
+C:\Users\Andi\Documents\Egyetem2020-2021\Programare pe componente\Lab\Utilities\obj\Debug\Utilities.pdb
