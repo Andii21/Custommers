@@ -1,0 +1,2 @@
+C:\Users\Andi\Documents\Egyetem2020-2021\Programare pe componente\Lab\Engine respective\obj\Debug\Engine.csprojAssemblyReference.cache
+C:\Users\Andi\Documents\Egyetem2020-2021\Programare pe componente\Lab\Engine respective\obj\Debug\Engine.csproj.CoreCompileInputs.cache
